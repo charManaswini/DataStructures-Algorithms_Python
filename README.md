@@ -1,11 +1,16 @@
-<<<<<<< HEAD
-
-Welcome to the Daily DSA Playground! 🚀.
-Hey there, fellow coding enthusiast! 👋 This is your go-to spot for daily Data Structures and Algorithms (DSA) fun. In this cozy corner of GitHub, I'm sharing my journey of tackling DSA questions and problems, all explained with Python magic ✨!!!
-=======
-# DataStructures-Algorithms_Python
-Data Structures and Algorithms, My daily practice commented code for reference and last minute practice :)
-
-Welcome to the Daily DSA Playground! 🚀.
-Hey there, fellow coding enthusiast! 👋 This is your go-to spot for daily Data Structures and Algorithms (DSA) fun. In this cozy corner of GitHub, I'm sharing my journey of tackling DSA questions and problems, all explained with Python magic ✨.
->>>>>>> origin/DSA_Python
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <center>
+        <h1>📚 Welcome to My DSA Practice Repository! 🚀</h1>
+        <p>Here, you can find my daily practice of Data Structures and Algorithms using Python language. 🐍</p>
+        <img src="DSA.gif" alt="DSA Practice GIF" loop="infinite">
+        <p>Don't miss a day of my journey to mastering DSA! 📅</p>
+        <p>Feel free to fork this repository, leave comments, or reach out for collaborations. Let's learn together! 🤝</p>
+    </center>
+</body>
+</html>
